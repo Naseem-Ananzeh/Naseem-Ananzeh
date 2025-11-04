@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm Naseem Ananzeh</h1>
 <p align="center">
-  🎓 Data Engineering & Analytics Student  
-  💡 Passionate about Machine Learning, Big Data, and Data Visualization  
-  🚀 Continuously learning and building projects in Python, SQL, and Power BI  
+   Data Engineering & Analytics Student  
+  , Passionate about Machine Learning, Big Data, and Data Visualization  
+  , Continuously learning and building projects in Python, SQL, and Power BI  
 </p>
 
 ---
