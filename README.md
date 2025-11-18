@@ -51,7 +51,7 @@
 
 ---
 
-### ⚡ Quick Loop
+### My Loop
 ```python
 while True:
     learn()
