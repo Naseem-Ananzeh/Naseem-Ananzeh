@@ -7,7 +7,7 @@
 
 ---
 
-### 🧰 Skills
+### Skills
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   
 </p>
 
@@ -23,7 +22,7 @@
 
 
 
-## 💻 Tech Stack:
+##  Tech Stack:
 ---
 ![](https://github-readme-stats.vercel.app/api?username=Naseem-Ananzeh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Naseem-Ananzeh&theme=dark&hide_border=false)<br/>
@@ -37,7 +36,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-### 🌍 Connect with Me
+###  Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/naseem-ananzeh" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
